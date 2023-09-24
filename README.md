@@ -1,9 +1,9 @@
 # cau-machine-learning-course
 CAU Machine Learning Course Repository
 
-This is the repositort for official Machine Learning Course at Central Asian University. 
+This is the repository for official Machine Learning Course at Central Asian University. 
 
-Out materials based on free and open coursewares, including esteemed Girafe-AI foundation and MIT and Harvard University OpenCourseWare organizations. 
+Out materials based on free and open coursewares, including esteemed Girafe-AI foundation, MIT and Harvard University OpenCourseWare organizations. 
 
 ## Course layout
 
