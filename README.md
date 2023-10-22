@@ -13,3 +13,5 @@ Out materials based on free and open coursewares, including esteemed Girafe-AI f
 | 02   | Linear algebra recap. Linear Regression. Losses and optimization. Linear Classification 1.                                        |             |  |
 | 03   | Linear Classification 2. Logistic regression.                                                                                     |             |  |
 | 04   | Maximum Likelihood Estimation for Logistic regression. Pytorch.                                                                   | hw_1_knn    |Deadline 18th Oct. 23:59  |
+| 05   | Decision Trees. Low-level Pytorch.                                                                   |     |  |
+| 06   | Decision Trees Ensembles. High-level Pytorch                                                             |     |  |
